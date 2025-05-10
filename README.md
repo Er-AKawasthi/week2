@@ -1,2 +1,2 @@
 # week2
-crop recommendation system
+forest fire detection using deep learning
